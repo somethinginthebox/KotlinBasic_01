@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
     Log.d("메인화면로그", "클릭용 버튼 눌림")
         Log.e("메인화면로그","에러 관련 로그")
 
-
     }
-}
+    }
+    }
